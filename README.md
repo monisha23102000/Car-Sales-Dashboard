@@ -60,4 +60,5 @@ Structure: The data model aggregates transactional records containing details on
 # 6. Screenshots / Demos
 
 Show what the dashboard looks like.
+
 Example : [Dashboard Preview] :(https://github.com/monisha23102000/Car-Sales-Dashboard/blob/main/Car_Sales_Dashboard_Overview.png)
