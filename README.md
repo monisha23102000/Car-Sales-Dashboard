@@ -15,9 +15,13 @@ List the key technologies used to build the dashboard.
 Example: The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Dashboard development and interactive data visualization
+
 • 📂 Power Query (M Language) – Data cleaning, transformation, and preparation
+
 • 📂 DAX (Data Analysis Expressions) – Calculated measures, KPIs, and business logic
-• 📝 Data Modeling – Relationships, star schema design, and performance optimization
+
+• 📝 Data Modeling – Relationships, star schema design, and performance optimization\
+
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 # 4. Data Source
@@ -34,16 +38,23 @@ Structure: The data model aggregates transactional records containing details on
 📊 Key Visuals Overview
 
 • KPI Cards: Total Revenue, Units Sold, Average Sales
+
 • Bar & Column Charts: Brand and model-wise performance
+
 • Line Charts: Sales trends over time
+
 • Regional Analysis: Geographic sales distribution
+
 • Slicers: Dynamic filtering by brand, region, and time
 
 💡 Business Impact & Insights
 
 • Quickly identifies top and underperforming brands and models
+
 • Highlights regional sales opportunities and gaps
+
 • Reveals trends to support forecasting and planning
+
 • Improves decision-making through interactive analytics
 
 # 6. Screenshots / Demos
